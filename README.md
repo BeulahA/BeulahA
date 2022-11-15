@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I am Dr. A. Beulah 👋
+👯 I’m looking to do collaborative research on Computer Vision
 
 <!--
 **BeulahA/BeulahA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
